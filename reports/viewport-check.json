@@ -1,0 +1,242 @@
+[
+  {
+    "width": 360,
+    "vw": 360,
+    "scrollWidth": 360,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1454,
+        "left": -14
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 720,
+        "left": -14
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 364,
+        "left": 357
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 507,
+        "left": 386
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 536,
+        "left": 529
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 675,
+        "left": 557
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "vw": 390,
+    "scrollWidth": 390,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1451,
+        "left": -17
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 717,
+        "left": -17
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 504,
+        "left": 383
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 532,
+        "left": 525
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 672,
+        "left": 554
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 701,
+        "left": 693
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "vw": 768,
+    "scrollWidth": 768,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1720,
+        "left": -20
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 850,
+        "left": -20
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 111,
+        "left": -3
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 792,
+        "left": 663
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 833,
+        "left": 826
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 1720,
+        "left": 850
+      }
+    ]
+  },
+  {
+    "width": 1024,
+    "vw": 1024,
+    "scrollWidth": 1024,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1721,
+        "left": -20
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 850,
+        "left": -20
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 112,
+        "left": -2
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 1721,
+        "left": 850
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 1251,
+        "left": 1057
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 1292,
+        "left": 1285
+      }
+    ]
+  },
+  {
+    "width": 1280,
+    "vw": 1280,
+    "scrollWidth": 1280,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1721,
+        "left": -20
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 850,
+        "left": -20
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 112,
+        "left": -2
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 1721,
+        "left": 850
+      },
+      {
+        "tag": "SPAN",
+        "cls": "ticker-sep",
+        "right": 1292,
+        "left": 1285
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 1458,
+        "left": 1326
+      }
+    ]
+  },
+  {
+    "width": 1920,
+    "vw": 1920,
+    "scrollWidth": 1920,
+    "offenders": [
+      {
+        "tag": "DIV",
+        "cls": "ticker-track",
+        "right": 1721,
+        "left": -19
+      },
+      {
+        "tag": "DIV",
+        "cls": "ticker-group",
+        "right": 851,
+        "left": -19
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "right": 112,
+        "left": -2
+      }
+    ]
+  }
+]
